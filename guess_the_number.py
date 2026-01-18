@@ -1,7 +1,7 @@
 #guess number
 #Purushrut Chauhan 25BEC080
 import random
-p = random.randint(0 , 50)
+p = random.randint(1 , 50)
 print('WELCOME to Guess a Random Number BETWEEN 1 and 50')
 print('ONLY 3 CHANCES')
 
